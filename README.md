@@ -1,7 +1,7 @@
 # Dublin_bikes
 
 # Project Overview
-This project utilizes machine learning to estimate the potential usage of city bikes in a hypothetical scenario where the COVID-19 pandemic did not occur. By analyzing historical bike usage data, the project aims to understand the pandemic's impact on urban mobility and provide insights into city bike service optimization.
+This project utilizes machine learning to estimate the potential usage of city bikes based on historical data from 2018. By analyzing historical bike usage data, the project aims to understand the pandemic's impact on urban mobility and provide insights into city bike service optimization.
 
 # Data Pre-Processing and Feature Engineering
 
